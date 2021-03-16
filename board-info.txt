@@ -1,0 +1,2 @@
+require version-baseband=2.0.c4-00984-8998_GEN_PACK-1.197731.2.215258.2
+require version-trustzone=TZ.BF.4.0.6-00161
